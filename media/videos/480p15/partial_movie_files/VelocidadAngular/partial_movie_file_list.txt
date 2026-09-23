@@ -1,4 +1,4 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/Julian Gomez/Desktop/computacion grafica/slerp/media/videos/480p15/partial_movie_files/VelocidadAngular/uncached_00000.mp4'
-file 'file:C:/Users/Julian Gomez/Desktop/computacion grafica/slerp/media/videos/480p15/partial_movie_files/VelocidadAngular/uncached_00001.mp4'
-file 'file:C:/Users/Julian Gomez/Desktop/computacion grafica/slerp/media/videos/480p15/partial_movie_files/VelocidadAngular/uncached_00002.mp4'
+file 'file:C:/Users/Julian Gomez/Desktop/slerp_kiro/slerp/media/videos/480p15/partial_movie_files/VelocidadAngular/uncached_00000.mp4'
+file 'file:C:/Users/Julian Gomez/Desktop/slerp_kiro/slerp/media/videos/480p15/partial_movie_files/VelocidadAngular/uncached_00001.mp4'
+file 'file:C:/Users/Julian Gomez/Desktop/slerp_kiro/slerp/media/videos/480p15/partial_movie_files/VelocidadAngular/uncached_00002.mp4'
